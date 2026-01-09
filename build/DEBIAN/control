@@ -1,0 +1,7 @@
+Package: libsaibcm
+Version: 1.0.0-th5-dev
+Section: libs
+Priority: optional
+Architecture: amd64
+Maintainer: Spanidea <user@example.com>
+Description: SAI Runtime Library for TH5

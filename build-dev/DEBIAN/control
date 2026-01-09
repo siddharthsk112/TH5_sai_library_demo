@@ -1,0 +1,8 @@
+Package: libsaibcm-dev
+Version: 1.0.0-th5-dev
+Section: libdevel
+Priority: optional
+Architecture: amd64
+Depends: libsaibcm (= 1.0.0-th5-dev)
+Maintainer: Spanidea <user@example.com>
+Description: SAI Development Headers for TH5
